@@ -2,7 +2,7 @@ package gocrawl
 
 import (
 	"bytes"
-	"github.com/Agnesi/goquery"
+	"github.com/agnesis/goquery"
 	"net/http"
 	"reflect"
 	"sync"

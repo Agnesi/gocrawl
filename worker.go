@@ -2,8 +2,8 @@ package gocrawl
 
 import (
 	"bytes"
-	"github.com/Agnesi/goquery"
-	"github.com/Agnesi/goquery/exp/html"
+	"github.com/agnesis/goquery"
+	"github.com/agnesis/goquery/exp/html"
 	"github.com/temoto/robotstxt.go"
 	"io/ioutil"
 	"net/http"

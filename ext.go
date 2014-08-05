@@ -2,7 +2,7 @@ package gocrawl
 
 import (
 	"errors"
-	"github.com/Agnesi/goquery"
+	"github.com/agnesis/goquery"
 	"log"
 	"net/http"
 	"time"
