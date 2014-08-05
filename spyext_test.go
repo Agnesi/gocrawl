@@ -2,7 +2,7 @@ package gocrawl
 
 import (
 	"bytes"
-	"github.com/PuerkitoBio/goquery"
+	"github.com/Agnesi/goquery"
 	"net/http"
 	"reflect"
 	"sync"

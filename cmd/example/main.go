@@ -5,8 +5,8 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/PuerkitoBio/gocrawl"
-	"github.com/PuerkitoBio/goquery"
+	"github.com/Agnesi/gocrawl"
+	"github.com/Agnesi/goquery"
 )
 
 type Ext struct {

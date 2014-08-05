@@ -12,7 +12,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/PuerkitoBio/goquery"
+	"github.com/Agnesi/goquery"
 	"github.com/PuerkitoBio/purell"
 )
 

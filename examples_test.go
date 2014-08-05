@@ -1,7 +1,7 @@
 package gocrawl
 
 import (
-	"github.com/PuerkitoBio/goquery"
+	"github.com/Agnesi/goquery"
 	"net/http"
 	"regexp"
 	"time"
